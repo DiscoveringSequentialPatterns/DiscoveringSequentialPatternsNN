@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sekwCNN", "sekwCNN\sekwCNN.pyproj", "{41C1A85D-E976-4546-B0F2-8D0AFD4555D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C1A85D-E976-4546-B0F2-8D0AFD4555D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C1A85D-E976-4546-B0F2-8D0AFD4555D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E645F2E7-84A6-4EE2-96E8-8E9599632571}
+	EndGlobalSection
+EndGlobal
