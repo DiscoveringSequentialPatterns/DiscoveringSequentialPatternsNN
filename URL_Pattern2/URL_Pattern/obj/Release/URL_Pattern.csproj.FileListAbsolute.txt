@@ -1,0 +1,10 @@
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\bin\Release\URL_Pattern.exe.config
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\bin\Release\URL_Pattern.exe
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\bin\Release\URL_Pattern.pdb
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.csprojAssemblyReference.cache
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.Form1.resources
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.Properties.Resources.resources
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.csproj.GenerateResource.cache
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.exe
+C:\Users\LenovoE540\Desktop\URL_Pattern\URL_Pattern\URL_Pattern\obj\Release\URL_Pattern.pdb
